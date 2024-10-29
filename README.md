@@ -41,7 +41,7 @@ Experience the application [here](https://quick-shell-assignment-eight-ruddy.ver
 
 ## Repository
 
-Find the source code on [GitHub]().
+Find the source code on [GitHub](https://github.com/daravathuchandrunayak/Quick-Shell-Assignment).
 
 ## Tech Stack
 
